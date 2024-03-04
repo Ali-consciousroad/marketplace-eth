@@ -41,4 +41,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 # marketplace-eth
 
-Next Generation Web3 Marketplace built using React, Next.js and Solidity 
+Next Generation Web3 Marketplace built using React, Next.js and Solidity
